@@ -1,4 +1,4 @@
 # webcotec-demo
 this is my actual git repository.
 <br>
-Author- Laxmi Maurya
+Author- Laxmi maurya developer
